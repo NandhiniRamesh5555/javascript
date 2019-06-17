@@ -1,30 +1,51 @@
-{
-    "footer": 186,
-  
-      "type": "GPSMessage",
-      "messageTriggerReason": "KeyOff",
-      "cog": 0,
-      "obdSpeed": 0,
-      "height": 0,
-      "tripDistance": 0,
-      "vehicleODOStatus": "VehicleODONotSupported",
-      "obdAverageSpeed": 0,
-      "hdop": 0,
-      "sv": 0,
-      "obdMaxSpeed": 0,
-      "tripIdlingTime": 0,
-      "sog": 0,
-      "fixQuality": "GPSNoFix"
-
-      "timestamp": "2016-10-03T15:37:32-04:00",
-      "tripType": "IgnitionOff",
-      "tripNumber": 2,
-      "messageType": 1,
-      "messageLength": 16,
-      "latitude": 0,
-      "longitude": 0,
-      "fixQuality": "FixInvalid",
-      "vehicleProtocolId": "NoProtocol",
-      "odo": 0
-
+[{
+  "deliveredAt": "2019-05-23T18:39:42.646Z",
+  "deviceId": "8120778169",
+  "eventId": "20e38010-7d8a-11e9-bfcc-b52864f804d7",
+  "message": {
+    "deviceId": "8120778169",
+    "eventId": "20e38010-7d8a-11e9-bfcc-b52864f804d7",
+    "finalSpeed": 0,
+    "fixQuality": "FixOk",
+    "initialSpeed": 49,
+    "latitude": 55.88824,
+    "longitude": -3.16253,
+    "maxBraking": 7,
+    "odo": 37,
+    "timestamp": "2019-05-23T06:39:39-12:00",
+    "tripNumber": 9,
+    "tripType": "Trip",
+    "type": "HardBrakeMessage",
+    "vehicleProtocolId": "ISO15765_11_BIT_CAN"
+  },
+  "messageId": "20e30ae0-7d8a-11e9-9e72-a7bc6ef308d1",
+  "receivedAt": "2019-05-23T18:39:42.222Z",
+  "tags": [],
+  "triggeredRule": "Tuskiibballeventswithdetails-UdpHardBrake"
+},
+ {
+  "deliveredAt": "2019-05-23T18:39:42.646Z",
+  "deviceId": "8120778169",
+  "eventId": "20e38010-7d8a-11e9-bfcc-b52864f804d7",
+  "message": {
+    "deviceId": "8120778169",
+    "eventId": "20e38010-7d8a-11e9-bfcc-b52864f804d7",
+    "finalSpeed": 0,
+    "fixQuality": "FixOk",
+    "initialSpeed": 49,
+    "latitude": 55.88824,
+    "longitude": -3.16253,
+    "maxBraking": 7,
+    "odo": 37,
+    "timestamp": "2019-05-23T06:39:39-12:00",
+    "tripNumber": 9,
+    "tripType": "Trip",
+    "type": "HardBrakeMessage",
+    "vehicleProtocolId": "ISO15765_11_BIT_CAN"
+  },
+  "messageId": "20e30ae0-7d8a-11e9-9e72-a7bc6ef308d1",
+  "receivedAt": "2019-05-23T18:39:42.222Z",
+  "tags": [],
+  "triggeredRule": "Tuskiibballeventswithdetails-UdpHardBrake"
 }
+ ]
