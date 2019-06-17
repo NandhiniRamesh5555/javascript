@@ -1,0 +1,30 @@
+{
+    "footer": 186,
+  
+      "type": "GPSMessage",
+      "messageTriggerReason": "KeyOff",
+      "cog": 0,
+      "obdSpeed": 0,
+      "height": 0,
+      "tripDistance": 0,
+      "vehicleODOStatus": "VehicleODONotSupported",
+      "obdAverageSpeed": 0,
+      "hdop": 0,
+      "sv": 0,
+      "obdMaxSpeed": 0,
+      "tripIdlingTime": 0,
+      "sog": 0,
+      "fixQuality": "GPSNoFix"
+
+      "timestamp": "2016-10-03T15:37:32-04:00",
+      "tripType": "IgnitionOff",
+      "tripNumber": 2,
+      "messageType": 1,
+      "messageLength": 16,
+      "latitude": 0,
+      "longitude": 0,
+      "fixQuality": "FixInvalid",
+      "vehicleProtocolId": "NoProtocol",
+      "odo": 0
+
+}
