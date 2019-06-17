@@ -1,29 +1,4 @@
-[{
-  "deliveredAt": "2019-05-23T18:39:42.646Z",
-  "deviceId": "8120778169",
-  "eventId": "20e38010-7d8a-11e9-bfcc-b52864f804d7",
-  "message": {
-    "deviceId": "8120778169",
-    "eventId": "20e38010-7d8a-11e9-bfcc-b52864f804d7",
-    "finalSpeed": 0,
-    "fixQuality": "FixOk",
-    "initialSpeed": 49,
-    "latitude": 55.88824,
-    "longitude": -3.16253,
-    "maxBraking": 7,
-    "odo": 37,
-    "timestamp": "2019-05-23T06:39:39-12:00",
-    "tripNumber": 9,
-    "tripType": "Trip",
-    "type": "HardBrakeMessage",
-    "vehicleProtocolId": "ISO15765_11_BIT_CAN"
-  },
-  "messageId": "20e30ae0-7d8a-11e9-9e72-a7bc6ef308d1",
-  "receivedAt": "2019-05-23T18:39:42.222Z",
-  "tags": [],
-  "triggeredRule": "Tuskiibballeventswithdetails-UdpHardBrake"
-},
- {
+{
   "deliveredAt": "2019-05-23T18:39:42.646Z",
   "deviceId": "8120778169",
   "eventId": "20e38010-7d8a-11e9-bfcc-b52864f804d7",
@@ -48,4 +23,3 @@
   "tags": [],
   "triggeredRule": "Tuskiibballeventswithdetails-UdpHardBrake"
 }
- ]
