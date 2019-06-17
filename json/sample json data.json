@@ -1,6 +1,6 @@
-{
+[
+    {
     "footer": 186,
-    "message": {
       "type": "GPSMessage",
       "messageTriggerReason": "KeyOff",
       "cog": 0,
@@ -16,7 +16,7 @@
       "sog": 0,
       "fixQuality": "GPSNoFix"
     },
-    "header": {
+    {
       "timestamp": "2016-10-03T15:37:32-04:00",
       "tripType": "IgnitionOff",
       "tripNumber": 2,
@@ -28,4 +28,11 @@
       "vehicleProtocolId": "NoProtocol",
       "odo": 0
     }
-}
+    {
+    "latitude": 0,
+      "longitude": 0,
+      "fixQuality": "FixInvalid",
+      "vehicleProtocolId": "NoProtocol",
+      "odo": 0
+    }
+    ]
