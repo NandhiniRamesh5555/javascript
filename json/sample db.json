@@ -6,5 +6,6 @@
     "pets":[
         { "animal":"dog", "name":"Buddy" },
         { "animal":"cat", "name":"Meow" }
-      ]      
+      ],   
+    "hobby":["Music","Photography"]
 }
